@@ -29,6 +29,19 @@ A RESTful API backend service for managing player matchmaking with an ELO-based 
 
 Total: **20+ unit and integration tests** covering all business logic and API endpoints.
 
+## 🌐 Live Demo
+
+**🎮 Interactive Dashboard**: https://kfactor072.github.io/matchmaking-system/dashboard.html
+
+**🔗 API Base URL**: https://matchmaking-system-production.up.railway.app
+
+Try these API endpoints directly:
+- [View All Players](https://matchmaking-system-production.up.railway.app/api/players)
+- [View Leaderboard](https://matchmaking-system-production.up.railway.app/api/players/leaderboard)
+- [View All Matches](https://matchmaking-system-production.up.railway.app/api/matches)
+
+> **Note**: The database is in-memory and resets on deployment restarts. Use the dashboard to create players and matches for testing!
+
 ## 🚀 Getting Started
 
 ### Prerequisites
