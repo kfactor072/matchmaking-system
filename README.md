@@ -252,9 +252,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+**Kennedy Joyce**
+- GitHub: [@kfactor072](https://github.com/kfactor072)
+- LinkedIn: [Kennedy Joyce](https://www.linkedin.com/in/kennedy-joyce-790790275/)
 
 ## 🙏 Acknowledgments
 
